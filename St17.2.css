@@ -1,0 +1,99 @@
+body{
+    background-image: url("https://risk.ru/u/img/256/255531.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;font-family: Calibri;color: blue;
+    font-weight: bold;
+}
+main{
+    display: flex;
+    flex-direction: column ;
+    margin: auto;
+    max-width: 1300px;
+    min-width: 90%;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+    padding: 0 50px;
+}
+h2{
+    display: block;
+    font-weight: lighter;font-size: 40px; text-align: center;
+}
+h1{
+    font-size: 50px;
+}
+ol{
+    list-style-type: none;
+}
+header li{
+    display: inline-block;
+    margin-left: 50px;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: blue; font-size: 24px;
+}
+a:hover{
+    border-bottom: 2px  gold solid; color: gold;
+}
+#s1{
+    display: inline-block;
+}
+#row{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;
+}
+#row img {float: left;border-radius: 10px; border: 5px solid blue;width: 350px;margin: 20px;
+}
+#row1{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;
+}
+#row1 img {float: left;border-radius: 10px; border: 5px solid blue;width: 350px;margin: 20px;
+}
+#row2{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;;
+}
+#row2 img {float: right;border-radius: 10px; border: 5px solid blue;width: 600px;margin: 20px;
+}
+#row3{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;
+}
+#row3 img {float: left;border-radius: 10px; border: 5px solid blue;width: 600px;margin: 20px;
+}
+#row4{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;;
+}
+#row4 img {float: right;border-radius: 10px; border: 5px solid blue;width: 350px;margin: 20px;
+}
+#row5{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;
+}
+#row5 img {float: left;border-radius: 10px; border: 5px solid blue;width: 600px;margin: 20px;
+}
+#row6{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;;
+}
+#row6 img {float: right;border-radius: 10px; border: 5px solid blue;width: 600px;margin: 20px;
+}
+#row7{
+    padding: 20px; border-radius: 10px; border: 5px solid blue; background-color: rgba(255,255,255,0.5);
+    color: darkblue;height: 600px;;
+}
+#row7 img {display: inline-block; border-radius: 10px; border: 5px solid blue;height: 375px;margin: 20px;
+}
+p {
+    font-size: 24px;
+
+}
